@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "arduino:avrispmkii",
+    "sketch": "07_example_1\\07_example_1.ino",
+    "port": "COM7"
+}

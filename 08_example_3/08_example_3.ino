@@ -1,4 +1,4 @@
-// Arduino pin assignment
+`// Arduino pin assignment
 #define PIN_LED  9
 #define PIN_TRIG 12   // sonar sensor TRIGGER
 #define PIN_ECHO 13   // sonar sensor ECHO
